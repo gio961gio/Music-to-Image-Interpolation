@@ -3,9 +3,6 @@
 
 ---
 # Examples
+https://github.com/gio961gio/Music-to-Image-Interpolation/assets/163283326/b822079f-1638-4ac5-8d64-ad25272b6e1b
 
-
- 
-
-https://github.com/gio961gio/Music-to-Image-Interpolation/assets/163283326/583b8fb7-ec98-41bb-864e-7d8c26855791
-
+Steve Reich -  Music for Pieces of Wood  (30 second extract) (fps=7, num_inference_steps=20)
