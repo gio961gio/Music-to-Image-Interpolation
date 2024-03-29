@@ -1,3 +1,6 @@
+# Original script by [Julia Turc and Mihail Eric]]
+# GitHub Repository: [https://github.com/iuliaturc/detextify.git]
+
 import pytesseract
 from dataclasses import dataclass
 from diffusers import StableDiffusionInpaintPipeline
