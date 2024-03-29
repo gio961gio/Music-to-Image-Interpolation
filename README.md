@@ -14,6 +14,12 @@ https://github.com/gio961gio/Music-to-Image-Interpolation/assets/163283326/b8220
 Steve Reich -  Music for Pieces of Wood  (30 second extract) (fps=7, num_inference_steps=20)
 
 ---
+https://github.com/gio961gio/Music-to-Image-Interpolation/assets/163283326/b248b6f3-53c8-44ab-a7a3-1b40d463d89b
+
+Karlheinz Stockhausen -  Helicopter String Quartet (25 seconds) (fps=5, num_inference_steps=30)
+
+
+---
 https://github.com/gio961gio/Music-to-Image-Interpolation/assets/163283326/1ba2023e-22c9-479e-aef7-53f4b94a4335
 
 Jean-Claude Risset - SUD (30 second extract) (fps=7, num_inference_steps=20)
