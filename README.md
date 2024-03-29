@@ -23,4 +23,5 @@ Steve Reich -  Music for Pieces of Wood  (30 second extract) (fps=7, num_inferen
 The core of the system is the Stable Diffusion 'img2img' by Hugging Face. Image embeddings are created using the Image Bind model by Meta, which employs multimodality and transforms audio data into image embeddings. 
 
 The interpolation part is adapted from the publicly available code by nateraw (https://github.com/nateraw/stable-diffusion-videos.git), and the detextifier is also adapted from the publicly available code by iuliaturc (https://github.com/iuliaturc/detextify.git).
+The Stable Diffusion and ImageBind models are incorporated into the public code provided by Zeqiang-Lai (https://github.com/Zeqiang-Lai/Anything2Image.git).
 
