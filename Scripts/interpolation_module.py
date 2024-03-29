@@ -1,3 +1,9 @@
+# Original script by [nateraw]
+# GitHub Repository: [https://github.com/nateraw/stable-diffusion-videos.git]
+
+
+
+
 import torch
 import os
 import numpy as np
