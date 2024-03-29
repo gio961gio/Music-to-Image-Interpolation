@@ -19,6 +19,14 @@ https://github.com/gio961gio/Music-to-Image-Interpolation/assets/163283326/1ba20
 Jean-Claude Risset - SUD (30 second extract) (fps=7, num_inference_steps=20)
 
 ---
+
+
+
+https://github.com/gio961gio/Music-to-Image-Interpolation/assets/163283326/7db11dd8-a384-42f7-bc1c-6b6acff63c99
+
+Antonio Vivaldi - Winter (15 seconds extract) (fps=7, num_inference_steps=20)
+
+
 ---
 ## Pipeline
 ![Pipeline](https://github.com/gio961gio/Music-to-Image-Interpolation/assets/163283326/a2b7fc86-e986-4c0e-bc19-12801649902a)
